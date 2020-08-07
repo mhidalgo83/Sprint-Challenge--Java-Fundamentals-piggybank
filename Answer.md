@@ -8,7 +8,9 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 2. Explain the three steps needed to run a Java application (using the JDK) including what each step does and how those step correlate to running a JavaScript application.
     
     The first step is to compile the code using the `javac` command in the console. If there are no errors, you continue with the `jar cvfe` command, which creates
-    a `jar` file using the code that was just compile. Finally, you use the `java -jar` command to run the program.
+    a `jar` file using the code that was just compile. Finally, you use the `java -jar` command to run the program. The only thing I can think
+    of in how it correlates to JavaScript is using Babel to transpile React into readable JS for browsers. The main difference it that
+    JS code will typically run with errors present in the application.
     
 3. Explain how Java being a strongly typed language affected you solution.
     

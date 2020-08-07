@@ -57,7 +57,7 @@ public class CoinController {
         for (Coin c : coinList) {
             tempAmount = amount;
             if (tempAmount > (c.getValue() * c.getQuantity())) {
-                
+
             }
         }
 
